@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @SakibHossen574
-- 👀 I’m interested in product upload job.
-- 🌱 I’m currently learning product upload
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-SakibHossen574/SakibHossen574 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://www.upwork.com/freelancers/~01d6dfc6acad1a3c77
